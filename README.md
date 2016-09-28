@@ -12,5 +12,13 @@ source ~/tensorflow/bin/activate
 End:
 (tensorflow)$ deactivate
 
-2. conversion-examples has several examples of Python to TensorFlow conversions.
+2. Directory 'examples' has
+
+a) basic_math.py , tf_basic_math.py : A simple python program and it's TensorFlow equivalent
+
+b) manipulate_image.py : Basic image manipulations examples
+
+For image manipulation install pillow and matplotlib
+
+c)
 
