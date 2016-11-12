@@ -1,4 +1,4 @@
-# ml-tf-musings
+# tensor-flow-musings
 
 Random experiments with TensorFlow
 
